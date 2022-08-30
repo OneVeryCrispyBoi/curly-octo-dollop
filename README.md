@@ -1,1 +1,2 @@
-# curly-octo-dollop
+# curly-octo-dollop 
+We created this website from scratch by creating an html and a css file. Then, we began to start adding new code slowly but surely. We added text changed the font style and font size. We also underlined the header of the website.
